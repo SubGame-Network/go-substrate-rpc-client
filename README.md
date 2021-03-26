@@ -9,6 +9,15 @@
 Substrate RPC client in Go. It provides APIs and types around Polkadot and any Substrate-based chain RPC calls.
 This client is modelled after [polkadot-js/api](https://github.com/polkadot-js/api).
 
+## SubGame Note
+
+[SubGame](http://www.subgame.org/) fork this project is used to develop research and feed back to the original author. 
+
+Research direction:
+- Substrate FRAME framework
+- Substrate RPC client
+- Substrate application tools
+
 ## State
 
 This package is feature complete, but it is relatively new and might still contain bugs. We advice to use it with caution in production. It comes without any warranties, please refer to LICENCE for details.
