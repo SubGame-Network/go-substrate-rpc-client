@@ -18,6 +18,8 @@ Research direction:
 - Substrate RPC client
 - Substrate application tools
 
+for more [details](./subgame.md)
+
 ## State
 
 This package is feature complete, but it is relatively new and might still contain bugs. We advice to use it with caution in production. It comes without any warranties, please refer to LICENCE for details.
